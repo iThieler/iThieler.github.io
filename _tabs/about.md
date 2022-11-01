@@ -16,11 +16,9 @@ Since I wanted to deal with this topic for a long time, but as it is nu times so
 
 As mentioned in the beginning, 8 years have passed since then and since I have a considerable knowledge in this area, as well as in many others, I had decided after some time to let others participate. I got involved in forums and Facebook groups and made my contributions there. But then it happened, in Germany it is said that a carpenter has no cabinets, a cobbler only broken shoes and electricians too few sockets. If I continue this folk wisdom and bring it into the modern, the IT professional has no backups. :cry:
 
-Well, you learn from your mistakes, even the stupid ones. So I decided to start over under the name iThieler. I would be glad, of course only if you have lust, if you participate or support me in my work. Until then ... :smile:
+Well, you learn from your mistakes, even the stupid ones. So I decided to start over under the name iThieler. I would be glad, of course only if you have lust, if you participate or support me in my work. Until then ... :smile:<br>
 
-<br><br>
-
-<h1 align="center" id="heading">You like my work? You can ...</h1>
+<h1 id="heading">You like my work? You can ...</h1>
 
 <h3 id="heading">... support me by following me at</h3>
 <p>
@@ -48,9 +46,9 @@ Well, you learn from your mistakes, even the stupid ones. So I decided to start 
   <a href="https://www.amazon.de/hz/wishlist/ls/360K3ROOSECSE"><img src="https://img.shields.io/static/v1?logo=amazon&label=Buy&message=From%20my%20amazon%20Wishlist&color=brightgreen&style=for-the-badge" /></a>
 </p>
 
-<br><br><h1 align="center" id="heading">My Stats & Skills</h1>
+<br><h1 id="heading">My Stats & Skills</h1>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <!--<img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/overview.svg#gh-light-mode-only" />-->
   <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
