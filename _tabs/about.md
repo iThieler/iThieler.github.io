@@ -8,13 +8,17 @@ order: 4
 {: .prompt-tip }
 --->
 
-<h1 align="center" id="heading">Hello Traveler</h1>
+Welcome. My name is Michael Thiel, I am 38 years old and come from Rhineland-Palatinate in Germany. My main job is a system administrator, hence my nickname iThieler. In my spare time I'm interested in IT networks in general, home automation and everything related to it, and server virtualization.
 
-Welcome to my profile page. My name is Michael Thiel, I am 38 years old and I am from Rheinland-Pfalz in Germany. My main job is a system administrator, hence my nickname iThieler. In my spare time I'm into IT networks in general, home automation and everything related to it and server virtualization.
+This interest started about 8 years ago. A friend had chewed a house and wanted to renovate it "modern". Of course this includes the control of different actuators in different situations. For him it was clear, he does something like that as his main job and since it is all the same, I have some idea of such things. :zany_face:
 
-Primarily, I created this collection of scripts to make setting up proxmox servers easier and also faster for me. I use gitHub to channel and manage my ideas and elaborations. It's nothing professional, so let me say, if you use my scripts, do so at your own risk. Test them before you use this productively. Always remember to use due diligence when sourcing scripts and automation tasks from third party websites.
+Since I wanted to deal with this topic for a long time, but as it is nu times so, always lacked the time, I saw my opportunity and used you. :innocent:
 
-If you want to contribute, you can join discussions [here](https://github.com/iThieler/iThieler/discussions), and maybe help one or two with their problems. If you want to support me in my work, you can [buy me a coffee](https://ko-fi.com/U7U3FUTLF), or send me an [E-Mail](mailto:michael@thiels.network?subject=[GitHub]%20) if you want to actively contribute.<br><br>
+As mentioned in the beginning, 8 years have passed since then and since I have a considerable knowledge in this area, as well as in many others, I had decided after some time to let others participate. I got involved in forums and Facebook groups and made my contributions there. But then it happened, in Germany it is said that a carpenter has no cabinets, a cobbler only broken shoes and electricians too few sockets. If I continue this folk wisdom and bring it into the modern, the IT professional has no backups. :cry:
+
+Well, you learn from your mistakes, even the stupid ones. So I decided to start over under the name iThieler. I would be glad, of course only if you have lust, if you participate or support me in my work. Until then ... :smile:
+
+<br><br>
 
 <h1 align="center" id="heading">You like my work? You can ...</h1>
 
@@ -48,9 +52,9 @@ If you want to contribute, you can join discussions [here](https://github.com/iT
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  <!--<img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/overview.svg#gh-light-mode-only" />-->
   <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  <!--<img src="https://raw.githubusercontent.com/iThieler/github-stats/master/generated/languages.svg#gh-light-mode-only" />-->
 </p>
 
 <p align="center">
